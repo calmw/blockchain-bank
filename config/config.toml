@@ -1,0 +1,11 @@
+[mongo]
+host = "127.0.0.1"
+port = "27017"
+db_name = "blockchain"
+user_name = ""
+password = ""
+
+[blockchain]
+RPC = "https://polygon-rpc.com/"
+tt_contract = "0x17a011150e9Feb7bEc4CfAda055c8Df436EB730B"
+
